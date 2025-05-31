@@ -31,7 +31,7 @@ OpenAI 임베딩
 ↓
 Top-K 숙소 추출
 ↓
-정형 숙소 정보 (PostgreSQL 또는 Dict) 조회
+정형 숙소 정보 (Python Dict) 조회
 ↓
 GPT-4o가 최종 숙소 3개 추천
 ```
