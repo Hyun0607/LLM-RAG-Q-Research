@@ -17,7 +17,7 @@
 | 추천 알고리즘 | LangChain + OpenAI LLM + Chroma VectorDB |
 | 성능 평가 | 자동화된 Top-3 추천 + 포함 키워드 매칭 (`모델_평가.py`) |
 | 비교 대상 | 기존: 숙소 개요 기반 RAG / 개선: 예상 질의 기반 RAG |
-| 평가 기준 | Accuracy, Precision@3 (포함된 핵심어 개수 기준 평가) |
+| 평가 기준 | Accuracy (포함된 핵심어 개수 기준 평가) |
 
 ---
 
