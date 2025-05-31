@@ -28,8 +28,8 @@
 
 <!-- 아래 두 이미지는 나란히 -->
 <p align="center">
-  <<img src="./images/22.png" width="800">
-  <img src="./images/23.png" width="800">
+  <<img src="./images/22.png" width="400">
+  <img src="./images/23.png" width="400">
 </p>
 
 
