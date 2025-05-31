@@ -20,9 +20,15 @@
 | 평가 기준 | Accuracy (포함된 핵심어 개수 기준 평가) |
 
 ---
+<!-- 첫 번째 이미지는 단독 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9e874770-c3c7-452f-b31a-25081bcf676b" width="45%" />
-  <img src="https://github.com/user-attachments/assets/fa1a9dc3-b464-471f-bfab-a69d841d3ad8" width="45%" />
+  <img src="https://github.com/user-attachments/assets/632326bd-b451-46fd-a4dd-0493d798e192" width="80%" />
+</p>
+
+<!-- 아래 두 이미지는 나란히 -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0ca63ead-f6a3-458c-8797-a4ef5fc69fd9" width="45%" />
+  <img src="https://github.com/user-attachments/assets/3bb043f6-cab2-4b3a-8ba5-e8546e847e5f" width="45%" />
 </p>
 
 
