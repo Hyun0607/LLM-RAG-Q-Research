@@ -23,13 +23,13 @@
 ## 🧠 RAG 기술 구조 및 프롬프트 템플릿
 <!-- 첫 번째 이미지는 단독 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0ca63ead-f6a3-458c-8797-a4ef5fc69fd9" width="80%" />
+ <img src="./images/논문용.png" width="800">
 </p>
 
 <!-- 아래 두 이미지는 나란히 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/632326bd-b451-46fd-a4dd-0493d798e192" width="45%" />
-  <img src="https://github.com/user-attachments/assets/3bb043f6-cab2-4b3a-8ba5-e8546e847e5f" width="45%" />
+  <<img src="./images/22.png" width="800">
+  <img src="./images/23.png" width="800">
 </p>
 
 
