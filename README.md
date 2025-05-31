@@ -20,6 +20,7 @@
 | 평가 기준 | Accuracy (포함된 핵심어 개수 기준 평가) |
 
 ---
+## 🧠 RAG 기술 구조 및 프롬프트 템플릿
 <!-- 첫 번째 이미지는 단독 -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0ca63ead-f6a3-458c-8797-a4ef5fc69fd9" width="80%" />
