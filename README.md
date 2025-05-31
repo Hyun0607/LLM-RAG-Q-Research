@@ -22,4 +22,16 @@
 ---
 
 ## 🔄 시스템 흐름도
-
+```
+평가 질의
+↓
+OpenAI 임베딩
+↓
+(기존) 개요 기반 VectorDB or (개선) 예상 질의 기반 VectorDB
+↓
+Top-K 숙소 추출
+↓
+정형 숙소 정보 (PostgreSQL 또는 Dict) 조회
+↓
+GPT-4o가 최종 숙소 3개 추천
+```
