@@ -21,6 +21,8 @@
 
 ---
 
+![Image](https://github.com/user-attachments/assets/9e874770-c3c7-452f-b31a-25081bcf676b), ![Image](https://github.com/user-attachments/assets/fa1a9dc3-b464-471f-bfab-a69d841d3ad8)
+
 ## 🔄 시스템 흐름도
 ```
 평가 질의
