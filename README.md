@@ -20,8 +20,11 @@
 | 평가 기준 | Accuracy (포함된 핵심어 개수 기준 평가) |
 
 ---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9e874770-c3c7-452f-b31a-25081bcf676b" width="45%" />
+  <img src="https://github.com/user-attachments/assets/fa1a9dc3-b464-471f-bfab-a69d841d3ad8" width="45%" />
+</p>
 
-![Image](https://github.com/user-attachments/assets/9e874770-c3c7-452f-b31a-25081bcf676b), ![Image](https://github.com/user-attachments/assets/fa1a9dc3-b464-471f-bfab-a69d841d3ad8)
 
 ## 🔄 시스템 흐름도
 ```
