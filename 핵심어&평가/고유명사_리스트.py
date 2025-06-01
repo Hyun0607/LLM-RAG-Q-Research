@@ -83,5 +83,5 @@ for i, row in df.iterrows():
 
 # ✅ 5. 결과 저장
 df_result = pd.DataFrame(results)
-df_result.to_csv("숙소_고유명사 리스트.csv", index=False, encoding="utf-8-sig")
-print("✅ 저장 완료: 숙소_고유명사 리스트.csv")
+df_result.to_csv("고유명사_추출결과.csv", index=False, encoding="utf-8-sig")
+print("✅ 저장 완료: 고유명사_추출결과.csv")
