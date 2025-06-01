@@ -78,7 +78,7 @@ for _, row in tqdm(df.iterrows(), total=len(df)):
 
 # ✅ 8. 결과 저장
 result_df = pd.DataFrame(results)
-result_df.to_csv("openai_개요기반_예상질문.csv", index=False, encoding='utf-8-sig')
-print("✅ 예상 질문 생성 완료: openai_개요기반_예상질문.csv 저장됨")
+result_df.to_csv("VectorDB_예상질의.csv", index=False, encoding='utf-8-sig')
+print("✅ 예상 질문 생성 완료: VectorDB_예상질의.csv 저장됨")
 
 result_df
