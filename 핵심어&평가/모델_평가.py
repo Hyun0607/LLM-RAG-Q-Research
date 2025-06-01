@@ -12,7 +12,7 @@ Original file is located at
 import pandas as pd
 
 # ✅ 1. 평가 파일 및 핵심어 파일 불러오기
-df_eval = pd.read_csv("평가결과_RAG추천자동화.csv")
+df_eval = pd.read_csv("평가결과_TOP3.csv")
 df_keywords = pd.read_csv("숙소,개요,키워드.csv", encoding="cp949")
 
 # ✅ 2. 핵심어 정제 (수정된 부분)
@@ -82,7 +82,7 @@ result_df
 import pandas as pd
 
 # ✅ 1. 평가 파일 및 핵심어 파일 불러오기
-df_eval = pd.read_csv("평가결과_RAG추천자동화(비교군).csv")
+df_eval = pd.read_csv("평가결과_TOP3(비교군).csv")
 df_keywords = pd.read_csv("숙소,개요,키워드.csv", encoding="cp949")
 
 # ✅ 2. 핵심어 정제 (수정된 부분)
@@ -152,7 +152,7 @@ result_df
 import pandas as pd
 
 # ✅ 1. 평가 파일 및 핵심어 파일 불러오기
-df_eval = pd.read_csv("평가결과_1개추천자동화.csv")
+df_eval = pd.read_csv("평가결과_TOP1.csv")
 df_keywords = pd.read_csv("숙소,개요,키워드.csv", encoding="cp949")
 
 # ✅ 2. 핵심어 정제 (수정된 부분)
@@ -222,7 +222,7 @@ result_df
 import pandas as pd
 
 # ✅ 1. 평가 파일 및 핵심어 파일 불러오기
-df_eval = pd.read_csv("평가결과_1개추천자동화(비교군).csv")
+df_eval = pd.read_csv("평가결과_TOP1(비교군).csv")
 df_keywords = pd.read_csv("숙소,개요,키워드.csv", encoding="cp949")
 
 # ✅ 2. 핵심어 정제 (수정된 부분)
