@@ -47,7 +47,7 @@ def extract_goyu_nouns(description, hotel_name):
 {description}
 
 ✅ 출력 예시:
-["설악산", "속초해수욕장", "속초시외버스터미널"]
+["해운대", "광안리해수욕장", "자갈치 시장"]
 """
     }
 
@@ -62,7 +62,7 @@ def extract_goyu_nouns(description, hotel_name):
         return f"ERROR: {e}"
 
 # ✅ 3. CSV 불러오기 (컬럼명: 숙소명, 설명문)
-df = pd.read_csv("VectorDB_사전data.csv")  # 숙소명, 설명문 컬럼이 있어야 함
+df = pd.read_csv("개요만.csv")  # 숙소명, 설명문 컬럼이 있어야 함
 
 # ✅ 4. 처리 루프
 results = []
