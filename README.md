@@ -23,7 +23,7 @@
 ## 🧠 RAG 기술 구조 및 프롬프트 템플릿
 <!-- 첫 번째 이미지는 단독 -->
 <p align="center">
- <img src="./images/논문용.png" width="800">
+ <img src="./images/RAG.png" width="800">
 </p>
 
 <!-- 아래 두 이미지는 나란히 -->
